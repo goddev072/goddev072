@@ -23,8 +23,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```txt
 JavaScript   4 hrs 22 mins   ████████████░░░░░░░░░░░░░   48.25 %
-TypeScript   1 hr 35 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
-JavaScript   45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+TypeScript   2 hr 35 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
+CSS          45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
 Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
